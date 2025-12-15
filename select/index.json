@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Tell me Your dream",
+  "base_artist": "甲斐田晴",
+  "createdAt": "2025-12-15T10:21:47.181882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tell Me Your Dream",
+      "artist": "Blue Rodeo",
+      "has_synced": false,
+      "path": "select/01_Tell_Me_Your_Dream_Blue_Rodeo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Tell Me Your Dream",
+      "artist": "Skeeter Davis",
+      "has_synced": true,
+      "path": "select/02_You_Tell_Me_Your_Dream_Skeeter_Davis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Tell Me Your Dream",
+      "artist": "Connie Francis",
+      "has_synced": false,
+      "path": "select/03_You_Tell_Me_Your_Dream_Connie_Francis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Tell Me Your Dream",
+      "artist": "Connie Francis",
+      "has_synced": false,
+      "path": "select/04_You_Tell_Me_Your_Dream_Connie_Francis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tell Me Your Dream (Live at Massey Hall)",
+      "artist": "Blue Rodeo",
+      "has_synced": false,
+      "path": "select/05_Tell_Me_Your_Dream_(Live_at_Massey_Hall)_Blue_Rodeo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Know Where You Go / Tell Me Your Dream",
+      "artist": "Blue Rodeo",
+      "has_synced": false,
+      "path": "select/06_Know_Where_You_Go___Tell_Me_Your_Dream_Blue_Rodeo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Know Wher You Go / Tell Me Your Dream",
+      "artist": "Blue Rodeo",
+      "has_synced": false,
+      "path": "select/07_Know_Wher_You_Go___Tell_Me_Your_Dream_Blue_Rodeo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Tell Me Your Dream",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/08_You_Tell_Me_Your_Dream_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Tell Me Your Dream",
+      "artist": "Cole, Nat King",
+      "has_synced": true,
+      "path": "select/09_You_Tell_Me_Your_Dream_Cole,_Nat_King.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Know Where You Go/Tell Me Your Dream",
+      "artist": "Blue Rodeo",
+      "has_synced": false,
+      "path": "select/10_Know_Where_You_Go_Tell_Me_Your_Dream_Blue_Rodeo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Tell Me Your Dream, I'll Tell You Mine",
+      "artist": "Mills Brothers, The",
+      "has_synced": false,
+      "path": "select/11_You_Tell_Me_Your_Dream,_I'll_Tell_You_Mine_Mills_Brothers,_The.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Tell Me Your Dream, I'll Tell You Mine",
+      "artist": "The Mills Brothers",
+      "has_synced": false,
+      "path": "select/12_You_Tell_Me_Your_Dream,_I'll_Tell_You_Mine_The_Mills_Brothers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Know Where You Go / Tell Me Your Dream (2012 Remaster)",
+      "artist": "Blue Rodeo",
+      "has_synced": false,
+      "path": "select/13_Know_Where_You_Go___Tell_Me_Your_Dream_(2012_Remaster)_Blue_Rodeo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell me Your dream",
+      "artist": "甲斐田晴",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_me_Your_dream_甲斐田晴.txt"
+    }
+  ]
+}
